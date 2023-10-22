@@ -1,3 +1,7 @@
+使用する際は以下のアカウントでログインしてください。
+mail:testuser
+password:testuser
+
 ## 概要
 airbnbのクローンを作成しました。
 
