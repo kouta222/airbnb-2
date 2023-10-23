@@ -7,6 +7,20 @@ airbnbのクローンを作成しました。
 
 
 ## 使用技術
+Nextjs,TypeScript
+
+状態管理
+zustand
+
+DB
+MongoDB
+
+認証
+NextAuth
+
+画像アップロード
+Cloudinary SDK
+
 
 ## 機能一覧
 
